@@ -3,37 +3,7 @@ guid: 37fbb55d25de35f4db812288986fa295
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.002
-    second: {fileID: 2100000, guid: 86114a8e92be18d46b0f7811d0e2e1ac, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: agua
-    second: {fileID: 2100000, guid: cd9674afadd111c49aa891667a859eda, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: arena
-    second: {fileID: 2100000, guid: cc25f8b663a0f1f4fb6bc473ffc34f7d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: barro
-    second: {fileID: 2100000, guid: e22ae6de8272816488d57ffacbda4e29, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: nave
-    second: {fileID: 2100000, guid: 3ab52e675fcd50d4ba650bbbaf6d2a85, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: roca
-    second: {fileID: 2100000, guid: 0439a1cef4cd12d48b9e497b5263995b, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
